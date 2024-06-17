@@ -15,7 +15,7 @@ parser.add_argument("--pretrained", default=True, type=bool, help="Whether load 
 parser.add_argument("--weights", default='weights/IRSTD.pth', type=str, help="Pretrained weights path")
 parser.add_argument("--img_size", default=512, type=int, help="Image size for training")
 parser.add_argument("--num_classes", default=2, type=int, help="The number of class in the dateset")
-parser.add_argument("--Epochs", default=600, type=int, help="Total epochs of training")
+parser.add_argument("--Epochs", default=400, type=int, help="Total epochs of training")
 parser.add_argument("--batch_size", default=16, type=int, help="Batch size of training")
 parser.add_argument("--Init_lr", default=1e-3, type=float, help="Batch size of training")
 parser.add_argument("--optimizer_type", default='adam', type=str, help="Optimizer, adam or sgd")
