@@ -1,4 +1,4 @@
-This is the code of "MRF<sup>3</sup>Net: Infrared Small Target Detection Using Multi-Receptive Field Perception and Effective Feature Fusion". Our work has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS) and is waitting for proof. Please refer to our paper for more details.
+This is the code of "MRF<sup>3</sup>Net: Infrared Small Target Detection Using Multi-Receptive Field Perception and Effective Feature Fusion". Our work has been accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS). Please refer to our [paper](https://ieeexplore.ieee.org/document/10562332) for more details.
 
 To train the model:
 ```python
